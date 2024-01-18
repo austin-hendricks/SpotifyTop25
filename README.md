@@ -10,7 +10,7 @@ Main functionality is button that generates a playlist of the logged-in user's t
 
 After the following steps are complete, you should be all set to run this web app on your local machine.
 
-1. Register a Spotify App and add `http://localhost:5500/callback` (or your own live server's port number) as a Redirect URI in the app settings.
+1. [Register a Spotify App](https://developer.spotify.com/dashboard/applications) and add `http://localhost:5500/callback` (or your own live server's port number) as a Redirect URI in the app settings.
 
 2. Copy the Client ID into `script.js` variable "clientId" at the top of the file.
 
